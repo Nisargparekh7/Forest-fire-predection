@@ -1,6 +1,6 @@
 model.pkl is a trained model
 just run app.py
 
-if you want to train with other dataset then first run forest.py so from that you will get model.pkl train model.
+if you want to train with other dataset then first run forest_fire.py so from that you will get model.pkl train model.
 
 And then just put that model in app.py and just run it.
