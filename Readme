@@ -1,0 +1,4 @@
+model.pkl is a trained model
+just run app.py
+
+if you want to train with other dataset then first run 
